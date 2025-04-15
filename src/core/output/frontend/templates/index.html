@@ -1,0 +1,47 @@
+<!-- templates/index.html -->
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>旅行地图助手</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+    <script type="text/javascript">
+      window.AMAP_API_KEY = "{{ amap_key }}";
+    </script>
+    <!-- 添加高德地图安全密钥配置 -->
+    <script type="text/javascript">
+      window._AMapSecurityConfig = {
+        securityJsCode: "{{ amap_pwd }}",
+      };
+    </script>
+    <script
+      type="text/javascript"
+      src="https://webapi.amap.com/maps?v=2.0&key={{ amap_key }}"
+    ></script>
+  </head>
+  <body>
+    <div class="container">
+      <h1>旅行地图助手</h1>
+      <div class="chat-container">
+        <div id="chat-area" class="chat-area">
+          <div class="message system">
+            欢迎使用旅行地图助手，请输入您想去的地方，我会在地图上为您标记出来。
+          </div>
+        </div>
+        <form id="user-input-form" class="user-input-form">
+          <input
+            type="text"
+            id="user-input"
+            placeholder="输入您想去的地方，例如：我想去杭州西湖、北京市、武汉长江大桥"
+            autocomplete="off"
+          />
+          <button type="submit">发送</button>
+        </form>
+      </div>
+      <div id="map-container" class="map-container"></div>
+    </div>
+
+    <script src="/static/app.js"></script>
+  </body>
+</html>
