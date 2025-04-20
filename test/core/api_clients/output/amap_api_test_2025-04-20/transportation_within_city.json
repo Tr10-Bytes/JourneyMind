@@ -1,0 +1,54 @@
+{
+  "status": "1",
+  "is_same_city": true,
+  "plans": {
+    "driving": {
+      "status": "1",
+      "routes": [
+        {
+          "duration": "1",
+          "distance": "1",
+          "tolls": "0",
+          "toll_distance": "0",
+          "traffic_lights": "0",
+          "steps": [
+            {
+              "instruction": "沿正义路向北行驶1米到达目的地",
+              "road_name": null,
+              "duration": "1",
+              "distance": "1",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "transit": {
+      "status": "1",
+      "routes": [],
+      "count": 0
+    },
+    "walking": {
+      "status": "1",
+      "routes": [
+        {
+          "duration": "1",
+          "distance": "1",
+          "steps": [
+            {
+              "instruction": "向南步行1米到达目的地",
+              "road_name": null,
+              "duration": "1",
+              "distance": "1",
+              "direction": "南"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    }
+  }
+}

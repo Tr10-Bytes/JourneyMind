@@ -1,0 +1,21 @@
+{
+  "status": "1",
+  "count": "1",
+  "info": "OK",
+  "infocode": "10000",
+  "lives": [
+    {
+      "province": "北京",
+      "city": "北京市",
+      "adcode": "110000",
+      "weather": "阴",
+      "temperature": "20",
+      "winddirection": "南",
+      "windpower": "≤3",
+      "humidity": "49",
+      "reporttime": "2025-04-19 18:32:47",
+      "temperature_float": "20.0",
+      "humidity_float": "49.0"
+    }
+  ]
+}

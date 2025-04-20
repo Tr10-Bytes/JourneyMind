@@ -1,0 +1,344 @@
+{
+  "status": "1",
+  "is_same_city": true,
+  "plans": {
+    "driving": {
+      "status": "1",
+      "routes": [
+        {
+          "duration": "625",
+          "distance": "3928",
+          "tolls": "0",
+          "toll_distance": "0",
+          "traffic_lights": "4",
+          "steps": [
+            {
+              "instruction": "沿福州路向西行驶41米左转",
+              "road_name": null,
+              "duration": "37",
+              "distance": "41",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿西藏中路向东南行驶323米左转",
+              "road_name": null,
+              "duration": "104",
+              "distance": "323",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿延安东路途径延安东路辅路向东北行驶523米靠左进入中间岔道",
+              "road_name": null,
+              "duration": "106",
+              "distance": "523",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿延安东路向东行驶259米直行进入隧道",
+              "road_name": null,
+              "duration": "21",
+              "distance": "259",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿延安东路隧道南线向东北行驶1.7千米向右前方行驶",
+              "road_name": null,
+              "duration": "146",
+              "distance": "1724",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿延安东路隧道南线途径世纪大道向东行驶439米靠右",
+              "road_name": null,
+              "duration": "45",
+              "distance": "439",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿世纪大道向东行驶265米右转",
+              "road_name": null,
+              "duration": "88",
+              "distance": "265",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "向南行驶204米右转",
+              "road_name": null,
+              "duration": "46",
+              "distance": "204",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "向西行驶73米右转",
+              "road_name": null,
+              "duration": "19",
+              "distance": "73",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "向北行驶77米到达目的地",
+              "road_name": null,
+              "duration": "13",
+              "distance": "77",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "transit": {
+      "status": "1",
+      "routes": [
+        {
+          "departure_time": null,
+          "arrival_time": null,
+          "duration": "1603",
+          "walking_distance": "662",
+          "cost": "2.0",
+          "distance": "4464",
+          "segments": [
+            {
+              "mode": "walking",
+              "line": null,
+              "departure": null,
+              "arrival": null,
+              "duration": "210",
+              "distance": "246"
+            },
+            {
+              "mode": "walking",
+              "line": null,
+              "departure": null,
+              "arrival": null,
+              "duration": "356",
+              "distance": "416"
+            }
+          ]
+        },
+        {
+          "departure_time": null,
+          "arrival_time": null,
+          "duration": "1634",
+          "walking_distance": "1458",
+          "cost": "3.0",
+          "distance": "4417",
+          "segments": [
+            {
+              "mode": "walking",
+              "line": null,
+              "departure": null,
+              "arrival": null,
+              "duration": "396",
+              "distance": "463"
+            },
+            {
+              "mode": "walking",
+              "line": null,
+              "departure": null,
+              "arrival": null,
+              "duration": "852",
+              "distance": "995"
+            }
+          ]
+        },
+        {
+          "departure_time": null,
+          "arrival_time": null,
+          "duration": "1748",
+          "walking_distance": "1421",
+          "cost": "3.0",
+          "distance": "3784",
+          "segments": [
+            {
+              "mode": "walking",
+              "line": null,
+              "departure": null,
+              "arrival": null,
+              "duration": "750",
+              "distance": "875"
+            },
+            {
+              "mode": "walking",
+              "line": null,
+              "departure": null,
+              "arrival": null,
+              "duration": "468",
+              "distance": "546"
+            }
+          ]
+        },
+        {
+          "departure_time": null,
+          "arrival_time": null,
+          "duration": "1684",
+          "walking_distance": "854",
+          "cost": "3.0",
+          "distance": "3920",
+          "segments": [
+            {
+              "mode": "walking",
+              "line": null,
+              "departure": null,
+              "arrival": null,
+              "duration": "126",
+              "distance": "148"
+            },
+            {
+              "mode": "walking",
+              "line": null,
+              "departure": null,
+              "arrival": null,
+              "duration": "137",
+              "distance": "160"
+            },
+            {
+              "mode": "walking",
+              "line": null,
+              "departure": null,
+              "arrival": null,
+              "duration": "468",
+              "distance": "546"
+            }
+          ]
+        },
+        {
+          "departure_time": null,
+          "arrival_time": null,
+          "duration": "2135",
+          "walking_distance": "657",
+          "cost": "2.0",
+          "distance": "6109",
+          "segments": [
+            {
+              "mode": "walking",
+              "line": null,
+              "departure": null,
+              "arrival": null,
+              "duration": "152",
+              "distance": "178"
+            },
+            {
+              "mode": "walking",
+              "line": null,
+              "departure": null,
+              "arrival": null,
+              "duration": "410",
+              "distance": "479"
+            }
+          ]
+        }
+      ],
+      "count": 5
+    },
+    "walking": {
+      "status": "1",
+      "routes": [
+        {
+          "duration": "3911",
+          "distance": "4889",
+          "steps": [
+            {
+              "instruction": "沿福州路向东步行1336米右转",
+              "road_name": null,
+              "duration": "1069",
+              "distance": "1336",
+              "direction": "东"
+            },
+            {
+              "instruction": "沿中山东一路向东南步行306米直行",
+              "road_name": null,
+              "duration": "245",
+              "distance": "306",
+              "direction": "东南"
+            },
+            {
+              "instruction": "沿中山东二路步行1030米左转",
+              "road_name": null,
+              "duration": "824",
+              "distance": "1030",
+              "direction": []
+            },
+            {
+              "instruction": "沿外马路向东南步行633米向左后方行走",
+              "road_name": null,
+              "duration": "506",
+              "distance": "633",
+              "direction": "东南"
+            },
+            {
+              "instruction": "向北步行37米直行",
+              "road_name": null,
+              "duration": "30",
+              "distance": "37",
+              "direction": "北"
+            },
+            {
+              "instruction": "沿东复线向北步行764米直行",
+              "road_name": null,
+              "duration": "611",
+              "distance": "764",
+              "direction": "北"
+            },
+            {
+              "instruction": "沿东昌路向东步行422米直行",
+              "road_name": null,
+              "duration": "338",
+              "distance": "422",
+              "direction": "东"
+            },
+            {
+              "instruction": "沿东昌路辅路步行13米左转",
+              "road_name": null,
+              "duration": "10",
+              "distance": "13",
+              "direction": []
+            },
+            {
+              "instruction": "沿东泰路向北步行236米右转",
+              "road_name": null,
+              "duration": "189",
+              "distance": "236",
+              "direction": "北"
+            },
+            {
+              "instruction": "向东步行36米左转",
+              "road_name": null,
+              "duration": "29",
+              "distance": "36",
+              "direction": "东"
+            },
+            {
+              "instruction": "向北步行76米到达目的地",
+              "road_name": null,
+              "duration": "61",
+              "distance": "76",
+              "direction": "北"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    }
+  }
+}

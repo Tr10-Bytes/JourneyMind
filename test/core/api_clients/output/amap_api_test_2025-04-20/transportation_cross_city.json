@@ -1,0 +1,165 @@
+{
+  "status": "1",
+  "is_same_city": false,
+  "plans": {
+    "driving": {
+      "status": "1",
+      "routes": [
+        {
+          "duration": "7291",
+          "distance": "136718",
+          "tolls": "30",
+          "toll_distance": "98558",
+          "traffic_lights": "13",
+          "steps": [
+            {
+              "instruction": "沿正义路向北行驶407米右转",
+              "road_name": null,
+              "duration": "262",
+              "distance": "407",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿东长安街途径建国门内大街、建国门外大街向东行驶4.6千米右转",
+              "road_name": null,
+              "duration": "650",
+              "distance": "4552",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿国贸桥途径东三环中路、东三环南路、南三环东路向南行驶5.3千米向右前方行驶进入匝道",
+              "road_name": null,
+              "duration": "642",
+              "distance": "5317",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿分钟寺桥途径G2京沪高速向东南行驶7.5千米靠左",
+              "road_name": null,
+              "duration": "461",
+              "distance": "7514",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿G2京沪高速向东南行驶887米减速行驶到达收费站",
+              "road_name": null,
+              "duration": "85",
+              "distance": "887",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿G2京沪高速途径凉水河大桥、S40京津塘高速、凤河大桥、龙凤新河大桥、津蓟大桥、永定新河大桥向东南行驶97.8千米向右前方行驶进入匝道",
+              "road_name": null,
+              "duration": "3747",
+              "distance": "97782",
+              "tolls": "15",
+              "toll_distance": "97782",
+              "toll_road": "G2京沪高速"
+            },
+            {
+              "instruction": "沿徐庄子匝道桥向东北行驶776米减速行驶到达收费站",
+              "road_name": null,
+              "duration": "77",
+              "distance": "776",
+              "tolls": "15",
+              "toll_distance": "776",
+              "toll_road": "徐庄子匝道桥"
+            },
+            {
+              "instruction": "沿徐庄子匝道桥向西北行驶128米靠左",
+              "road_name": null,
+              "duration": "9",
+              "distance": "128",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿徐庄子匝道桥途径金钟河大街向西南行驶889米向右前方行驶进入匝道",
+              "road_name": null,
+              "duration": "84",
+              "distance": "889",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿金钟桥途径外环东路向东行驶2.0千米右转进入主路",
+              "road_name": null,
+              "duration": "173",
+              "distance": "1980",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿昆仑路途径黑牛城道、海津大桥向西南行驶15.3千米向右前方行驶进入辅路",
+              "road_name": null,
+              "duration": "844",
+              "distance": "15253",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿黑牛城道出口途径黑牛城道辅路向西行驶82米右转",
+              "road_name": null,
+              "duration": "16",
+              "distance": "82",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿宾馆西路向西北行驶867米右转进入左侧道路",
+              "road_name": null,
+              "duration": "167",
+              "distance": "867",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "向东北行驶85米靠右",
+              "road_name": null,
+              "duration": "26",
+              "distance": "85",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "向东北行驶96米左转",
+              "road_name": null,
+              "duration": "31",
+              "distance": "96",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "向西北行驶103米到达目的地",
+              "road_name": null,
+              "duration": "17",
+              "distance": "103",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            }
+          ]
+        }
+      ],
+      "count": 1
+    }
+  }
+}

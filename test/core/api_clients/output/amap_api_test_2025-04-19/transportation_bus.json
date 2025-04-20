@@ -1,0 +1,242 @@
+{
+  "status": "1",
+  "transits": [
+    {
+      "type": "integrated",
+      "departure_time": null,
+      "arrival_time": null,
+      "duration": "27247",
+      "walking_distance": "1894",
+      "cost": "64.0",
+      "segments": [
+        {
+          "mode": null,
+          "line": null,
+          "departure": null,
+          "arrival": null,
+          "duration": null
+        },
+        {
+          "mode": null,
+          "line": null,
+          "departure": null,
+          "arrival": null,
+          "duration": null
+        },
+        {
+          "mode": null,
+          "line": null,
+          "departure": null,
+          "arrival": null,
+          "duration": null
+        },
+        {
+          "mode": null,
+          "line": null,
+          "departure": null,
+          "arrival": null,
+          "duration": null
+        },
+        {
+          "mode": null,
+          "line": null,
+          "departure": null,
+          "arrival": null,
+          "duration": null
+        },
+        {
+          "mode": null,
+          "line": null,
+          "departure": null,
+          "arrival": null,
+          "duration": null
+        },
+        {
+          "mode": null,
+          "line": null,
+          "departure": null,
+          "arrival": null,
+          "duration": null
+        }
+      ]
+    },
+    {
+      "type": "integrated",
+      "departure_time": null,
+      "arrival_time": null,
+      "duration": "28204",
+      "walking_distance": "2311",
+      "cost": "69.0",
+      "segments": [
+        {
+          "mode": null,
+          "line": null,
+          "departure": null,
+          "arrival": null,
+          "duration": null
+        },
+        {
+          "mode": null,
+          "line": null,
+          "departure": null,
+          "arrival": null,
+          "duration": null
+        },
+        {
+          "mode": null,
+          "line": null,
+          "departure": null,
+          "arrival": null,
+          "duration": null
+        },
+        {
+          "mode": null,
+          "line": null,
+          "departure": null,
+          "arrival": null,
+          "duration": null
+        },
+        {
+          "mode": null,
+          "line": null,
+          "departure": null,
+          "arrival": null,
+          "duration": null
+        },
+        {
+          "mode": null,
+          "line": null,
+          "departure": null,
+          "arrival": null,
+          "duration": null
+        },
+        {
+          "mode": null,
+          "line": null,
+          "departure": null,
+          "arrival": null,
+          "duration": null
+        }
+      ]
+    },
+    {
+      "type": "integrated",
+      "departure_time": null,
+      "arrival_time": null,
+      "duration": "28142",
+      "walking_distance": "2579",
+      "cost": "64.0",
+      "segments": [
+        {
+          "mode": null,
+          "line": null,
+          "departure": null,
+          "arrival": null,
+          "duration": null
+        },
+        {
+          "mode": null,
+          "line": null,
+          "departure": null,
+          "arrival": null,
+          "duration": null
+        },
+        {
+          "mode": null,
+          "line": null,
+          "departure": null,
+          "arrival": null,
+          "duration": null
+        },
+        {
+          "mode": null,
+          "line": null,
+          "departure": null,
+          "arrival": null,
+          "duration": null
+        },
+        {
+          "mode": null,
+          "line": null,
+          "departure": null,
+          "arrival": null,
+          "duration": null
+        },
+        {
+          "mode": null,
+          "line": null,
+          "departure": null,
+          "arrival": null,
+          "duration": null
+        },
+        {
+          "mode": null,
+          "line": null,
+          "departure": null,
+          "arrival": null,
+          "duration": null
+        }
+      ]
+    },
+    {
+      "type": "integrated",
+      "departure_time": null,
+      "arrival_time": null,
+      "duration": "29260",
+      "walking_distance": "2666",
+      "cost": "69.0",
+      "segments": [
+        {
+          "mode": null,
+          "line": null,
+          "departure": null,
+          "arrival": null,
+          "duration": null
+        },
+        {
+          "mode": null,
+          "line": null,
+          "departure": null,
+          "arrival": null,
+          "duration": null
+        },
+        {
+          "mode": null,
+          "line": null,
+          "departure": null,
+          "arrival": null,
+          "duration": null
+        },
+        {
+          "mode": null,
+          "line": null,
+          "departure": null,
+          "arrival": null,
+          "duration": null
+        },
+        {
+          "mode": null,
+          "line": null,
+          "departure": null,
+          "arrival": null,
+          "duration": null
+        },
+        {
+          "mode": null,
+          "line": null,
+          "departure": null,
+          "arrival": null,
+          "duration": null
+        },
+        {
+          "mode": null,
+          "line": null,
+          "departure": null,
+          "arrival": null,
+          "duration": null
+        }
+      ]
+    }
+  ],
+  "count": 4
+}

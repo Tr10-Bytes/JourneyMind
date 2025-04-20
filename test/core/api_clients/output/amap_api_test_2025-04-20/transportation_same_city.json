@@ -1,0 +1,631 @@
+{
+  "status": "1",
+  "is_same_city": true,
+  "plans": {
+    "driving": {
+      "status": "1",
+      "routes": [
+        {
+          "duration": "2158",
+          "distance": "17388",
+          "tolls": "0",
+          "toll_distance": "0",
+          "traffic_lights": "13",
+          "steps": [
+            {
+              "instruction": "向北行驶396米左转",
+              "road_name": null,
+              "duration": "88",
+              "distance": "396",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿东华门路向西行驶80米右转",
+              "road_name": null,
+              "duration": "31",
+              "distance": "80",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "向西北行驶538米左转",
+              "road_name": null,
+              "duration": "200",
+              "distance": "538",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿西华门大街向西行驶105米右转",
+              "road_name": null,
+              "duration": "34",
+              "distance": "105",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿北长街向北行驶837米左转",
+              "road_name": null,
+              "duration": "125",
+              "distance": "837",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿景山前街途径文津街、西安门大街向西行驶1.1千米右转",
+              "road_name": null,
+              "duration": "171",
+              "distance": "1150",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿西黄城根北街向北行驶178米左转",
+              "road_name": null,
+              "duration": "61",
+              "distance": "178",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿西四东大街途径阜成门内大街向西行驶1.7千米右转",
+              "road_name": null,
+              "duration": "318",
+              "distance": "1725",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿阜成门北大街向北行驶292米向左前方行驶进入主路",
+              "road_name": null,
+              "duration": "34",
+              "distance": "292",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿西二环入口途径西二环向北行驶1.7千米靠左",
+              "road_name": null,
+              "duration": "130",
+              "distance": "1747",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿西直门北大街向北行驶327米靠左",
+              "road_name": null,
+              "duration": "25",
+              "distance": "327",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿西直门北大街途径西土城路向北行驶3.2千米靠左沿主路行驶",
+              "road_name": null,
+              "duration": "190",
+              "distance": "3222",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿西土城路途径学知桥、学院路向北行驶1.4千米左转",
+              "road_name": null,
+              "duration": "198",
+              "distance": "1403",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿北四环中路辅路向西行驶403米向左前方行驶进入主路",
+              "road_name": null,
+              "duration": "28",
+              "distance": "403",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿北四环中路入口途径北四环中路、北四环西路向西行驶3.4千米向右前方行驶进入右岔路",
+              "road_name": null,
+              "duration": "179",
+              "distance": "3353",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿北四环西路出口途径北四环西路辅路向西行驶317米右转",
+              "road_name": null,
+              "duration": "35",
+              "distance": "317",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿颐和园路向北行驶86米右转",
+              "road_name": null,
+              "duration": "11",
+              "distance": "86",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿海淀路向东行驶507米左转",
+              "road_name": null,
+              "duration": "85",
+              "distance": "507",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿五四路向北行驶651米左转",
+              "road_name": null,
+              "duration": "189",
+              "distance": "651",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿求知路向西北行驶36米右转",
+              "road_name": null,
+              "duration": "16",
+              "distance": "36",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "向北行驶35米到达目的地",
+              "road_name": null,
+              "duration": "10",
+              "distance": "35",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            }
+          ]
+        }
+      ],
+      "count": 1
+    },
+    "transit": {
+      "status": "1",
+      "routes": [
+        {
+          "departure_time": null,
+          "arrival_time": null,
+          "duration": "4320",
+          "walking_distance": "2817",
+          "cost": "5.0",
+          "distance": "17672",
+          "segments": [
+            {
+              "mode": "walking",
+              "line": null,
+              "departure": null,
+              "arrival": null,
+              "duration": "1746",
+              "distance": "2038"
+            },
+            {
+              "mode": "walking",
+              "line": null,
+              "departure": null,
+              "arrival": null,
+              "duration": "228",
+              "distance": "267"
+            },
+            {
+              "mode": "walking",
+              "line": null,
+              "departure": null,
+              "arrival": null,
+              "duration": "438",
+              "distance": "512"
+            }
+          ]
+        },
+        {
+          "departure_time": null,
+          "arrival_time": null,
+          "duration": "4624",
+          "walking_distance": "2550",
+          "cost": "5.0",
+          "distance": "18700",
+          "segments": [
+            {
+              "mode": "walking",
+              "line": null,
+              "departure": null,
+              "arrival": null,
+              "duration": "1684",
+              "distance": "1965"
+            },
+            {
+              "mode": "walking",
+              "line": null,
+              "departure": null,
+              "arrival": null,
+              "duration": "61",
+              "distance": "72"
+            },
+            {
+              "mode": "walking",
+              "line": null,
+              "departure": null,
+              "arrival": null,
+              "duration": "0",
+              "distance": "1"
+            },
+            {
+              "mode": "walking",
+              "line": null,
+              "departure": null,
+              "arrival": null,
+              "duration": "438",
+              "distance": "512"
+            }
+          ]
+        },
+        {
+          "departure_time": null,
+          "arrival_time": null,
+          "duration": "4901",
+          "walking_distance": "2210",
+          "cost": "7.0",
+          "distance": "17920",
+          "segments": [
+            {
+              "mode": "walking",
+              "line": null,
+              "departure": null,
+              "arrival": null,
+              "duration": "1062",
+              "distance": "1240"
+            },
+            {
+              "mode": "walking",
+              "line": null,
+              "departure": null,
+              "arrival": null,
+              "duration": "163",
+              "distance": "191"
+            },
+            {
+              "mode": "walking",
+              "line": null,
+              "departure": null,
+              "arrival": null,
+              "duration": "228",
+              "distance": "267"
+            },
+            {
+              "mode": "walking",
+              "line": null,
+              "departure": null,
+              "arrival": null,
+              "duration": "438",
+              "distance": "512"
+            }
+          ]
+        },
+        {
+          "departure_time": null,
+          "arrival_time": null,
+          "duration": "6608",
+          "walking_distance": "2218",
+          "cost": "4.0",
+          "distance": "17936",
+          "segments": [
+            {
+              "mode": "walking",
+              "line": null,
+              "departure": null,
+              "arrival": null,
+              "duration": "1035",
+              "distance": "1208"
+            },
+            {
+              "mode": "walking",
+              "line": null,
+              "departure": null,
+              "arrival": null,
+              "duration": "216",
+              "distance": "253"
+            },
+            {
+              "mode": "walking",
+              "line": null,
+              "departure": null,
+              "arrival": null,
+              "duration": "648",
+              "distance": "757"
+            }
+          ]
+        },
+        {
+          "departure_time": null,
+          "arrival_time": null,
+          "duration": "5236",
+          "walking_distance": "2421",
+          "cost": "6.0",
+          "distance": "18159",
+          "segments": [
+            {
+              "mode": "walking",
+              "line": null,
+              "departure": null,
+              "arrival": null,
+              "duration": "1361",
+              "distance": "1588"
+            },
+            {
+              "mode": "walking",
+              "line": null,
+              "departure": null,
+              "arrival": null,
+              "duration": "275",
+              "distance": "321"
+            },
+            {
+              "mode": "walking",
+              "line": null,
+              "departure": null,
+              "arrival": null,
+              "duration": "438",
+              "distance": "512"
+            }
+          ]
+        }
+      ],
+      "count": 5
+    },
+    "walking": {
+      "status": "1",
+      "routes": [
+        {
+          "duration": "12518",
+          "distance": "15647",
+          "steps": [
+            {
+              "instruction": "向北步行396米左转",
+              "road_name": null,
+              "duration": "317",
+              "distance": "396",
+              "direction": "北"
+            },
+            {
+              "instruction": "沿东华门路向西步行80米右转",
+              "road_name": null,
+              "duration": "64",
+              "distance": "80",
+              "direction": "西"
+            },
+            {
+              "instruction": "向西北步行538米左转",
+              "road_name": null,
+              "duration": "430",
+              "distance": "538",
+              "direction": "西北"
+            },
+            {
+              "instruction": "沿西华门大街向西步行105米右转",
+              "road_name": null,
+              "duration": "84",
+              "distance": "105",
+              "direction": "西"
+            },
+            {
+              "instruction": "沿北长街向北步行837米左转",
+              "road_name": null,
+              "duration": "670",
+              "distance": "837",
+              "direction": "北"
+            },
+            {
+              "instruction": "沿文津街向西步行777米直行",
+              "road_name": null,
+              "duration": "622",
+              "distance": "777",
+              "direction": "西"
+            },
+            {
+              "instruction": "沿西安门大街向西步行702米右转",
+              "road_name": null,
+              "duration": "562",
+              "distance": "702",
+              "direction": "西"
+            },
+            {
+              "instruction": "沿西四南大街向北步行165米直行",
+              "road_name": null,
+              "duration": "132",
+              "distance": "165",
+              "direction": "北"
+            },
+            {
+              "instruction": "沿西四北大街步行957米左转",
+              "road_name": null,
+              "duration": "766",
+              "distance": "957",
+              "direction": []
+            },
+            {
+              "instruction": "沿平安里西大街向西步行1464米右转",
+              "road_name": null,
+              "duration": "1171",
+              "distance": "1464",
+              "direction": "西"
+            },
+            {
+              "instruction": "沿西直门南大街步行294米",
+              "road_name": null,
+              "duration": "235",
+              "distance": "294",
+              "direction": []
+            },
+            {
+              "instruction": "向北步行474米向左前方行走",
+              "road_name": null,
+              "duration": "379",
+              "distance": "474",
+              "direction": "北"
+            },
+            {
+              "instruction": "沿西直门桥步行101米向左前方行走",
+              "road_name": null,
+              "duration": "81",
+              "distance": "101",
+              "direction": []
+            },
+            {
+              "instruction": "沿西直门桥步行91米直行",
+              "road_name": null,
+              "duration": "73",
+              "distance": "91",
+              "direction": []
+            },
+            {
+              "instruction": "沿西直门外大街辅路向西步行82米向左前方行走",
+              "road_name": null,
+              "duration": "66",
+              "distance": "82",
+              "direction": "西"
+            },
+            {
+              "instruction": "向西北步行225米左转",
+              "road_name": null,
+              "duration": "180",
+              "distance": "225",
+              "direction": "西北"
+            },
+            {
+              "instruction": "沿高梁桥路向北步行178米直行",
+              "road_name": null,
+              "duration": "142",
+              "distance": "178",
+              "direction": "北"
+            },
+            {
+              "instruction": "沿高梁桥斜街向西北步行349米",
+              "road_name": null,
+              "duration": "279",
+              "distance": "349",
+              "direction": "西北"
+            },
+            {
+              "instruction": "沿高梁桥斜街辅路向西北步行582米直行",
+              "road_name": null,
+              "duration": "466",
+              "distance": "582",
+              "direction": "西北"
+            },
+            {
+              "instruction": "沿高梁桥斜街向西北步行856米直行",
+              "road_name": null,
+              "duration": "685",
+              "distance": "856",
+              "direction": "西北"
+            },
+            {
+              "instruction": "沿大柳树路向北步行596米直行",
+              "road_name": null,
+              "duration": "477",
+              "distance": "596",
+              "direction": "北"
+            },
+            {
+              "instruction": "沿皂君庙路步行98米向左前方行走",
+              "road_name": null,
+              "duration": "78",
+              "distance": "98",
+              "direction": []
+            },
+            {
+              "instruction": "向北步行1018米向左前方行走",
+              "road_name": null,
+              "duration": "814",
+              "distance": "1018",
+              "direction": "北"
+            },
+            {
+              "instruction": "向北步行2745米左转",
+              "road_name": null,
+              "duration": "2196",
+              "distance": "2745",
+              "direction": "北"
+            },
+            {
+              "instruction": "步行1482米直行",
+              "road_name": null,
+              "duration": "1186",
+              "distance": "1482",
+              "direction": []
+            },
+            {
+              "instruction": "沿大城坊向西步行230米直行",
+              "road_name": null,
+              "duration": "184",
+              "distance": "230",
+              "direction": "西"
+            },
+            {
+              "instruction": "沿科学路向西步行94米直行",
+              "road_name": null,
+              "duration": "75",
+              "distance": "94",
+              "direction": "西"
+            },
+            {
+              "instruction": "向西步行18米右转",
+              "road_name": null,
+              "duration": "14",
+              "distance": "18",
+              "direction": "西"
+            },
+            {
+              "instruction": "沿五四路向北步行43米左转",
+              "road_name": null,
+              "duration": "34",
+              "distance": "43",
+              "direction": "北"
+            },
+            {
+              "instruction": "沿求知路向西北步行36米右转",
+              "road_name": null,
+              "duration": "29",
+              "distance": "36",
+              "direction": "西北"
+            },
+            {
+              "instruction": "向北步行34米到达目的地",
+              "road_name": null,
+              "duration": "27",
+              "distance": "34",
+              "direction": "北"
+            }
+          ]
+        }
+      ],
+      "count": 1
+    }
+  }
+}

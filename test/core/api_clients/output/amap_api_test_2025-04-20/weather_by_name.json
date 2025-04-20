@@ -1,0 +1,21 @@
+{
+  "status": "1",
+  "count": "1",
+  "info": "OK",
+  "infocode": "10000",
+  "lives": [
+    {
+      "province": "湖南",
+      "city": "长沙市",
+      "adcode": "430100",
+      "weather": "阴",
+      "temperature": "25",
+      "winddirection": "西南",
+      "windpower": "≤3",
+      "humidity": "80",
+      "reporttime": "2025-04-20 19:04:32",
+      "temperature_float": "25.0",
+      "humidity_float": "80.0"
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "status": "1",
+  "is_same_city": false,
+  "plans": {
+    "driving": {
+      "status": "1",
+      "routes": [
+        {
+          "duration": "2656",
+          "distance": "20653",
+          "tolls": "0",
+          "toll_distance": "0",
+          "traffic_lights": "16",
+          "steps": [
+            {
+              "instruction": "沿正义路途径南河沿大街向北行驶621米右转",
+              "road_name": null,
+              "duration": "342",
+              "distance": "621",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿霞公府街向东行驶54米向右前方行驶",
+              "road_name": null,
+              "duration": "8",
+              "distance": "54",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿霞公府街向东南行驶33米靠右",
+              "road_name": null,
+              "duration": "2",
+              "distance": "33",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿霞公府街向东行驶304米右转",
+              "road_name": null,
+              "duration": "99",
+              "distance": "304",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿王府井大街向南行驶139米右转",
+              "road_name": null,
+              "duration": "80",
+              "distance": "139",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿东长安街途径西长安街、复兴门内大街、复兴门外大街向西行驶5.8千米靠右沿主路行驶",
+              "road_name": null,
+              "duration": "902",
+              "distance": "5828",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿复兴门外大街途径复兴路向西行驶2.5千米右转进入匝道",
+              "road_name": null,
+              "duration": "259",
+              "distance": "2481",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿新兴桥途径西三环中路、西三环北路向北行驶5.8千米向右前方行驶进入匝道",
+              "road_name": null,
+              "duration": "410",
+              "distance": "5823",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿万泉河路向北行驶3.7千米向右前方行驶进入辅路",
+              "road_name": null,
+              "duration": "228",
+              "distance": "3650",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿万泉河路出口途径万泉河路辅路向北行驶105米右转",
+              "road_name": null,
+              "duration": "17",
+              "distance": "105",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿芙蓉北路向东行驶446米左转",
+              "road_name": null,
+              "duration": "85",
+              "distance": "446",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿颐和园路向北行驶243米右转",
+              "road_name": null,
+              "duration": "34",
+              "distance": "243",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿求知路向东行驶576米向左前方行驶",
+              "road_name": null,
+              "duration": "108",
+              "distance": "576",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿求知路向东行驶108米左转",
+              "road_name": null,
+              "duration": "26",
+              "distance": "108",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "向北行驶63米左转",
+              "road_name": null,
+              "duration": "18",
+              "distance": "63",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "向西行驶29米左转",
+              "road_name": null,
+              "duration": "12",
+              "distance": "29",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            },
+            {
+              "instruction": "沿临湖路向西行驶150米到达目的地",
+              "road_name": null,
+              "duration": "26",
+              "distance": "150",
+              "tolls": "0",
+              "toll_distance": "0",
+              "toll_road": []
+            }
+          ]
+        }
+      ],
+      "count": 1
+    }
+  }
+}
