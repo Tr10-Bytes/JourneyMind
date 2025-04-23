@@ -4,6 +4,7 @@ An intelligent travel planning assistant powered by large language models that g
 ## Table of Contents
 - [JourneyMind](#journeymind)
   - [Table of Contents](#table-of-contents)
+  - [Workflow](#workflow)
   - [Features](#features)
   - [Installation](#installation)
     - [Prerequisites](#prerequisites)
@@ -15,6 +16,10 @@ An intelligent travel planning assistant powered by large language models that g
     - [Running test](#running-test)
   - [Contributing](#contributing)
   - [License](#license)
+
+## Workflow
+![workflow](https://github.com/user-attachments/assets/5ac49f3d-7d7b-4a73-a523-273d7cec3010)
+
 
 ## Features
 ✨ **Core Capabilities**
